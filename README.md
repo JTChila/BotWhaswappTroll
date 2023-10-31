@@ -1,6 +1,6 @@
 # SendScriptWhatsApp
 
-Código para enviar o Script inteiro de Shrek ou Bee Movie para seus amigos ou grupos do WhatsApp
+Código para enviar o Script inteiro de Shrek  para seus amigos ou grupos do WhatsApp
 
 ## Utilização
 
