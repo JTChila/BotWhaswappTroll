@@ -4,7 +4,7 @@ Código para enviar o Script inteiro de Shrek ou Bee Movie para seus amigos ou g
 
 ## Utilização
 
-Abra [shrekSendScript.js](https://github.com/Matt-Fontes/SendScriptWhatsApp/blob/main/shrekSendScript.js)
+Abra [Script_shreck.js](https://github.com/JTChila/BotWhaswappTroll/blob/main/Script_shrek.js)
 
 
 Copie todo o conteúdo (clique em raw -> ctrl+a -> ctrl+c)
